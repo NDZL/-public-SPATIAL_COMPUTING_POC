@@ -43,7 +43,7 @@ A SHELF
 #### 2. USAGE
 - Run the app
 ##### WARM-UP
-- While the app is showing the Discovery Controller (waving hand), go on moving the device in all direction
+- While the app is showing the Discovery Controller (waving hand), go on moving the device in all directions
 - The best time to use the app is when ARcore starts detecting the planes. These are highlighted with a dot grid like this one
   
   ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/6d772eac-d440-4921-8f14-e4f78b041fd6)
