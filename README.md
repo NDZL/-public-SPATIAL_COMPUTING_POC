@@ -21,7 +21,7 @@ CUBES <== This is currently linked to the Planogram creation. Print it on a A4-s
 
 
 
-PITAGORIC SQUARES
+PYTHAGOREAN SQUARES
 
 ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/5f75ce4b-a41a-465c-ae4a-71fc0c0c694d)
 
