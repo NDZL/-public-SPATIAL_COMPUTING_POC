@@ -1,8 +1,6 @@
 # -public-SPATIAL_COMPUTING_POC
 Public repo for proving the Zebra devices' AR Core capabilities
 
-
-# DEVCON2023_SPATIAL_COMPUTING_DEMO
 POC from PSS USE CASES
 
 ## ANCHOR IMAGES
