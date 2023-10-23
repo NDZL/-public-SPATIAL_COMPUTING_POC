@@ -15,19 +15,19 @@ See https://developers.google.com/ar/develop/augmented-images/arcoreimg
 
 CUBES <== This is currently linked to the Planogram creation. Print it on a A4-size sheet and hang it on a wall. Or disaply it a a screen.
 
-![cubes100](https://github.com/NDZL/DEVCON2023_SPATIAL_COMPUTING_DEMO/assets/11386676/f26e7824-b747-4217-a71e-7f290552598b)
+![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/1c9ff8f0-36da-4394-8be5-280e6d2f0622)
 
 
 
 PITAGORIC SQUARES
 
-![pitagoric90](https://github.com/NDZL/DEVCON2023_SPATIAL_COMPUTING_DEMO/assets/11386676/2facfcee-b759-4ff2-9eb2-c2cf66988044)
+![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/5f75ce4b-a41a-465c-ae4a-71fc0c0c694d)
 
 
 
 A SHELF
 
-![shelf100](https://github.com/NDZL/DEVCON2023_SPATIAL_COMPUTING_DEMO/assets/11386676/a392b063-0c1c-446e-8909-764ff4602c8e)
+![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/abd7a3ec-db83-463d-adff-329fee51cbd7)
 
 
 ## APP'S USERS MANUAL
@@ -36,7 +36,7 @@ A SHELF
 - Pick the latest APK from the Releases page of this repo
 - You need "Play Services for AR core" installed on your device. Version 1.39 was used to build this app.
 
-  ![img_1.png](img_1.png)
+  ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/aa655e3c-07a5-41a2-9897-92f176c6a00f)
 
 ### 2. USAGE
 - Run the app
@@ -49,7 +49,7 @@ A SHELF
 #### AIM AT THE ANCHOR IMAGE
 - Press "START HERE" button
   
-  ![image](https://github.com/NDZL/DEVCON2023_SPATIAL_COMPUTING_DEMO/assets/11386676/910c7bfb-e8c6-4c51-bbdb-50f70cf5722b)
+  ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/46fdb68f-09ba-48d7-ad2b-d78c514dec67)
 
 - Aim the camera at the anchor image, one of those shown above. The app will start tracking the image and will show the Planogram.
 #### PSS GAMIFICATION
