@@ -13,7 +13,7 @@ These images got high rating from Google app "arcoreimg.exe"
 
 See https://developers.google.com/ar/develop/augmented-images/arcoreimg 
 
-CUBES <== This is currently linked to the Planogram creation. Print it on a A4-size sheet and hang it on a wall. Or disaply it a a screen.
+CUBES <== This is currently linked to the Planogram creation. Print it on a A4-size sheet and hang it on a wall. Or display it a a screen.
 
 ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/1c9ff8f0-36da-4394-8be5-280e6d2f0622)
 
