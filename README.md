@@ -1,7 +1,9 @@
 # -public-SPATIAL_COMPUTING_POC
 Public repo for proving the Zebra devices' AR Core capabilities
 
-##Zebra devices are Google certified for AR Core https://developers.google.com/ar/devices#google_play_devices
+## Zebra devices are Google certified for AR Core
+
+Click https://developers.google.com/ar/devices#google_play_devices then scroll down or search 'Zebra'
 
 POC from PSS USE CASES
 
