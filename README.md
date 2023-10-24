@@ -72,4 +72,16 @@ A SHELF
 
 #### 3. TROUBLESHOOTING
 
-#### 4. FAQ
+#### 4. SNAPSHOTS
+
+![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/0e88e501-0703-4585-bc73-d3a059df6cdb)
+  ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/eca90341-fe53-4895-8668-98eae581c3e1)
+
+![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/d8f10be1-6144-4e6a-b5ea-49cd71b0564e)
+  ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/e4e77848-c9b1-4068-acfb-ec8344a7a8f7)
+
+  
+
+
+
+
