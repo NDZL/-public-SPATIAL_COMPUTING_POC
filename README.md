@@ -26,7 +26,8 @@ See https://developers.google.com/ar/develop/augmented-images/arcoreimg
 
 CUBES <== This is currently linked to the Planogram creation. Print it on a A4-size sheet and hang it on a wall. Or display it a a screen.
 
-![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/1c9ff8f0-36da-4394-8be5-280e6d2f0622)
+![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/1c9ff8f0-36da-4394-8be5-280e6d2f0622)  ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/c3eadce5-8911-472d-abd1-b9f09b0e9280)
+
 
 
 
@@ -38,7 +39,8 @@ PYTHAGOREAN SQUARES
 
 A SHELF <== This is currently linked to the Aisle Planogram (apk v1.1)
 
-![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/abd7a3ec-db83-463d-adff-329fee51cbd7)
+![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/abd7a3ec-db83-463d-adff-329fee51cbd7)  ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/38694631-c6f1-4337-bef3-84dd9eae8823)
+
 
 
 ### APP'S USERS MANUAL
