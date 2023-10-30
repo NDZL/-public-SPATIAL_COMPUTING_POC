@@ -3,7 +3,7 @@ Public repo for proving the Zebra devices' AR Core capabilities
 
 
 
-# NEW! Watch this video
+# Watch this video
 
 https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/releases/download/v1.0/Zebra.ARcore.PSS.PoC.1.mp4
 
@@ -36,7 +36,7 @@ PYTHAGOREAN SQUARES
 
 
 
-A SHELF
+A SHELF <== This is currently linked to the Aisle Planogram (apk v1.1)
 
 ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/abd7a3ec-db83-463d-adff-329fee51cbd7)
 
