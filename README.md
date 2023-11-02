@@ -51,6 +51,11 @@ A SHELF <== This is currently linked to the Aisle Planogram (apk v1.1)
 
   ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/aa655e3c-07a5-41a2-9897-92f176c6a00f)
 
+  Install services for AR core from here
+
+  ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/169b12b8-1569-4cc9-8c73-da6b047b27b8)
+
+
 #### 2. USAGE
 - Run the app
 ##### WARM-UP
