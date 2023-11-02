@@ -37,7 +37,7 @@ PYTHAGOREAN SQUARES
 
 
 
-A SHELF <== This is currently linked to the Aisle Planogram (apk v1.1)
+A SHELF <== This is currently linked to the Aisle Planogram (apk v1.1+)
 
 ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/abd7a3ec-db83-463d-adff-329fee51cbd7)  ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/38694631-c6f1-4337-bef3-84dd9eae8823)
 
