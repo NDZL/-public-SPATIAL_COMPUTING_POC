@@ -88,6 +88,11 @@ A SHELF <== This is currently linked to the Aisle Planogram (apk v1.1)
   ![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/e4e77848-c9b1-4068-acfb-ec8344a7a8f7)
 
   
+![image](https://github.com/NDZL/-public-SPATIAL_COMPUTING_POC/assets/11386676/615e3547-10df-42d0-b04f-a3a92bae41e4)
+
+
+
+  
 
 
 
